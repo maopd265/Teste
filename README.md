@@ -1,1 +1,1 @@
-# Teste
+# Exercícios de aprendizagem em C
